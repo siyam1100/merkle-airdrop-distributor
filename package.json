@@ -1,0 +1,12 @@
+{
+  "name": "merkle-airdrop-distributor",
+  "version": "1.0.0",
+  "description": "Flat structure gas-efficient Merkle Airdrop",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "merkletreejs": "^0.3.11",
+    "keccak256": "^1.0.6",
+    "hardhat": "^2.19.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+  }
+}
